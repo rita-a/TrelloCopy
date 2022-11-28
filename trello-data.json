@@ -1,0 +1,10 @@
+[
+	{
+		"name" : "Assignment Board",
+		"verify" : true
+	},
+	{
+		"name" : "Test Board",
+		"verify" : false
+	}
+]
