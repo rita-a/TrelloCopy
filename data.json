@@ -1,0 +1,14 @@
+[
+	{
+		"scenario":[
+			"QA Get tags", 
+			"QA Get tags Created By (only by user)" 
+		]
+	},
+	{
+		"scenario":[
+			"QA Get tags", 
+			"QA Get tags By Tag Name" 
+		]
+	}	
+]
